@@ -1,1 +1,0 @@
-This is exercise 6: Renaming and deleting a file.
